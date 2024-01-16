@@ -10,5 +10,4 @@ public class PrinterExample {
 		printer.println(5.7);
 		printer.println("홍길동");
 	}
-
 }
