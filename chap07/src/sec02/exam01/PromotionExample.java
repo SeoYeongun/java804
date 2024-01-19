@@ -13,7 +13,7 @@ public class PromotionExample {
 		B b = new B();
 		C c = new C();
 		D d = new D();
-		E e = new E();
+		E e = new E();		
 		
 		A a1 = b;
 		A a2 = c;
@@ -24,7 +24,7 @@ public class PromotionExample {
 		C c1 = e;
 		
 		//B b3 = e;
-		//C c2 = d;
+		//C c2 = d;		
 	}
 
 }
